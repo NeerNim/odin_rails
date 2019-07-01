@@ -1,3 +1,5 @@
+# Sample App
+
 This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
